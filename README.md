@@ -1,12 +1,30 @@
-# React + Vite
+# 📋 iTask - Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautifully designed React + Vite Todo App that lets you manage your tasks efficiently. You can add, edit, delete, and mark todos as completed. All data is stored locally using your browser's LocalStorage.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- Add, edit, delete, and complete tasks
+- Data persists using LocalStorage
+- Clean UI built with Tailwind CSS
+- Fast setup using React + Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+React, Vite, Tailwind CSS, UUID, LocalStorage
+
+---
+
+## 🧑‍💻 Getting Started
+
+```bash
+git clone https://github.com/tanu99C/iTask-Todo.git
+cd iTask-Todo
+npm install
+npm run dev
+Open http://localhost:5173 in your browser.
+
